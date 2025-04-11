@@ -1,11 +1,14 @@
 {
   "translation": {
+    "name": "Imię (Imiona)",
+    "surname": "Nazwisko",
+    "national_id": "PESEL",
+    "date_of_birth": "Data urodzenia",
+    "email": "Adres email",
+
     "login": "Zaloguj się",
     "register": "Zarejestruj się",
     "forgotPassword": "Nie pamiętasz hasła?",
-    "email": "Adres email",
-    "firstName": "Imię",
-    "lastName": "Nazwisko",
     "password": "Hasło",
     "repeatPassword": "Powtórz hasło",
     "passwordsDiffer": "Niezgodne hasła",
@@ -14,6 +17,29 @@
     "successfulRegister": "Pomyślnie zarejestrowano, teraz możesz się zalogować",
     "recentExaminations": "Ostatnie badania",
     "examinationStartInstruction": "Aby rozpocząć nowe badanie, naciśnij poniższy przycisk",
-    "examinationStart": "Rozpocznij badanie"
+    "examinationStart": "Rozpocznij badanie",
+
+    "sample_date": "Data i godzina pobrania próbki",
+    "positive_culture_date": "Data i godzina dodatniej hodowli",
+    "bottle_number": "Numer butelki",
+    "examination_number": "Numer badania",
+    "central_line_insertion": "Wkłucie centralne",
+    "on_antibiotics": "Przyjęcie antybiotyków przed badaniem",
+    "medium_type": "Typ podłoża",
+    "notes": "Uwagi",
+    "suggested_treatment": "Sugerowana terapia",
+    "type": "Typ",
+    "type_probability": "Prawdopodobieństwo typu",
+    "gram_stain": "Barwienie Grama",
+    "gram_probablity": "Prawdopodobieństwo barwienia Grama",
+    "genus": "Rodzaj",
+    "genus_probablity": "Prawdopodobieństwo rodzaju",
+    "species": "Gatunek",
+    "species_probablity": "Prawdopodobieństwo gatunku",
+    "report_title": "Raport z badania",
+    "patient_data": "Pacjent",
+    "user_data": "Przeprowadzający badanie",
+    "examination_result": "Wynik badania",
+    "examination_data": "Informacje o badaniu"
   }
 }

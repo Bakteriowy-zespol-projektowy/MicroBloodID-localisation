@@ -1,11 +1,14 @@
 {
   "translation": {
+    "name": "First name (names)",
+    "surname": "Surname",
+    "national_id": "National ID",
+    "date_of_birth": "Date of birth",
+    "email": "Email Address",
+
     "login": "Sign in",
     "register": "Sign up",
     "forgotPassword": "Forgot your password?",
-    "email": "Email Address",
-    "firstName": "First name",
-    "lastName": "Last name",
     "password": "Password",
     "repeatPassword": "Repeat password",
     "passwordsDiffer": "Passwords do not match",
@@ -14,6 +17,29 @@
     "successfulRegister": "Successfully registered, now you can login",
     "recentExaminations": "Recent examinations",
     "examinationStartInstruction": "To start a new examination, press the button below",
-    "examinationStart": "New examination"
+    "examinationStart": "New examination",
+
+    "sample_date": "Date and time of sample collection",
+    "positive_culture_date": "Date and time of positive culture",
+    "bottle_number": "Bottle number",
+    "examination_number": "Examination number",
+    "central_line_insertion": "Central line insertion",
+    "on_antibiotics": "Antibiotics taken before examination",
+    "medium_type": "Medium type",
+    "notes": "Notes",
+    "suggested_treatment": "Suggested treatment",
+    "type": "Type",
+    "type_probability": "Type probability",
+    "gram_stain": "Gram stain",
+    "gram_probablity": "Gram stain probability",
+    "genus": "Genus",
+    "genus_probablity": "Genus probability",
+    "species": "Species",
+    "species_probablity": "Species probability",
+    "report_title": "Examination report",
+    "patient_data": "Patient",
+    "user_data": "Examiner",
+    "examination_result": "Examination result",
+    "examination_data": "Examination data"
   }
 }
