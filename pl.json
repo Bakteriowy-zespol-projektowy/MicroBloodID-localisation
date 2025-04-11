@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "login": "Zaloguj się",
+    "register": "Zarejestruj się",
+    "forgotPassword": "Nie pamiętasz hasła?",
+    "email": "Adres email",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "password": "Hasło",
+    "repeatPassword": "Powtórz hasło",
+    "passwordsDiffer": "Niezgodne hasła",
+    "greeting": "Witaj!",
+    "successfulLogin": "Pomyślnie zalogowano!",
+    "successfulRegister": "Pomyślnie zarejestrowano, teraz możesz się zalogować",
+    "recentExaminations": "Ostatnie badania",
+    "examinationStartInstruction": "Aby rozpocząć nowe badanie, naciśnij poniższy przycisk",
+    "examinationStart": "Rozpocznij badanie"
+  }
+}

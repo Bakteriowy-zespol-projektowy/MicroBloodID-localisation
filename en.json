@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "login": "Sign in",
+    "register": "Sign up",
+    "forgotPassword": "Forgot your password?",
+    "email": "Email Address",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "password": "Password",
+    "repeatPassword": "Repeat password",
+    "passwordsDiffer": "Passwords do not match",
+    "greeting": "Welcome!",
+    "successfulLogin": "Successful login",
+    "successfulRegister": "Successfully registered, now you can login",
+    "recentExaminations": "Recent examinations",
+    "examinationStartInstruction": "To start a new examination, press the button below",
+    "examinationStart": "New examination"
+  }
+}
