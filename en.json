@@ -40,6 +40,10 @@
     "patient_data": "Patient",
     "user_data": "Examiner",
     "examination_result": "Examination result",
-    "examination_data": "Examination data"
+    "examination_data": "Examination data",
+
+    "yes": "Yes",
+    "no": "No",
+    "n/a": "N/A"
   }
 }

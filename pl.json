@@ -40,6 +40,10 @@
     "patient_data": "Pacjent",
     "user_data": "Przeprowadzający badanie",
     "examination_result": "Wynik badania",
-    "examination_data": "Informacje o badaniu"
+    "examination_data": "Informacje o badaniu",
+
+    "yes": "Tak",
+    "no": "Nie",
+    "n/a": "N/A"
   }
 }
