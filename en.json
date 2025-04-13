@@ -44,6 +44,8 @@
 
     "yes": "Yes",
     "no": "No",
-    "n/a": "N/A"
+    "n/a": "N/A",
+
+    "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)"
   }
 }
