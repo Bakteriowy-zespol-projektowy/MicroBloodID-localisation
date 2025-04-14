@@ -40,6 +40,12 @@
     "patient_data": "Pacjent",
     "user_data": "Przeprowadzający badanie",
     "examination_result": "Wynik badania",
-    "examination_data": "Informacje o badaniu"
+    "examination_data": "Informacje o badaniu",
+
+    "yes": "Tak",
+    "no": "Nie",
+    "n/a": "N/A",
+
+    "password_hint": "Twoje hasło musi zawierać co najmniej 8 znaków, w tym: \n- co najmmniej jedną wielką i jedną małą literę, \n- co najmniej jedną cyfrę, \n- co najmniej jeden znak specjalny (np. !, @, #, $, %)"
   }
 }
