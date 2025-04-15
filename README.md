@@ -1,11 +1,11 @@
 # Translations for MicrBloodID app
 To load this repository in either backend or app repos run
-`git submodules init`
+`git submodule init`
 and
-`git submodules update --init`
+`git submodule update --init`
 
 If this doesn't work please try
-`git submodules sync`
+`git submodule sync`
 and repeat the update command
 
 # Translation format
