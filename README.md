@@ -2,9 +2,9 @@
 To load this repository in either backend or app repos run
 `git submodule init`
 and
-`git submodule update --init`   
+`git submodule update --init`
 and
-`git submodule foreach git pull origin main`   
+`git submodule foreach git pull origin main`
 
 If this doesn't work please try
 `git submodule sync`
@@ -12,11 +12,9 @@ and repeat the update command
 
 # Translation format
 The translation format is
-```{
-translation:
-  {
-   key: "translation for key",
-  }
+```
+{
+  key: "translation for key",
 }
 ```
 
