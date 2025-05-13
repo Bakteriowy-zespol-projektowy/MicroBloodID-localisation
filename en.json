@@ -48,5 +48,28 @@
     "n/a": "N/A",
 
     "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)"
+     "report_title_pdf": "Laboratory Test Result", 
+    "pdf_patient_name_label": "Patient's First Name:",
+    "pdf_patient_surname_label": "Patient's Last Name:",
+    "pdf_date_of_birth_label": "Date of Birth:",
+    "pdf_sample_collection_date_label": "Sample Collection Date:",
+    "pdf_result_date_label": "Result Date:",
+    "pdf_examination_number_label": "Examination Number:", 
+    "pdf_sample_collection_method_title": "Collection Method",
+    "pdf_central_line_label": "Central Line:", 
+    "pdf_urinary_catheter_label": "Urinary Catheter:", 
+    "pdf_microbiological_results_title": "Microbiological Results",
+    "pdf_stage_label": "Stage",
+    "pdf_result_column_label": "Result",
+    "pdf_probability_column_label": "Probability", 
+    "pdf_gram_stain_label": "Gram Stain", 
+    "pdf_genus_label": "Genus",
+    "pdf_species_label": "Species",
+    "pdf_recommended_antibiotic_therapy_label": "Recommended Antibiotic Therapy:",
+    "pdf_recommended_treatment_label": "Recommended Treatment:",
+    "pdf_additional_notes_label": "Additional Notes:",
+    "pdf_performed_by_label": "Performed by:",
+    "pdf_performed_with_label": "Performed using",
+    "pdf_logo_alt_text": "Logo"
   }
 }
