@@ -57,4 +57,28 @@
   "n/a": "N/A",
 
   "password_hint": "Twoje hasło musi zawierać co najmniej 8 znaków, w tym: \n- co najmmniej jedną wielką i jedną małą literę, \n- co najmniej jedną cyfrę, \n- co najmniej jeden znak specjalny (np. !, @, #, $, %)"
+
+  "report_title_pdf": "Wynik badania laboratoryjnego", 
+  "pdf_patient_name_label": "Imię pacjenta:",
+  "pdf_patient_surname_label": "Nazwisko pacjenta:",
+  "pdf_date_of_birth_label": "Data urodzenia:", 
+  "pdf_sample_collection_date_label": "Data pobrania materiału:",
+  "pdf_result_date_label": "Data uzyskania wyniku:",
+  "pdf_examination_number_label": "Numer badania:",
+  "pdf_sample_collection_method_title": "Sposób pobrania",
+  "pdf_central_line_label": "Linia centralna:", 
+  "pdf_urinary_catheter_label": "Cewnik moczowy:", 
+  "pdf_microbiological_results_title": "Wyniki mikrobiologiczne",
+  "pdf_stage_label": "Etap",
+  "pdf_result_column_label": "Wynik", 
+  "pdf_probability_column_label": "Prawdopodobieństwo",
+  "pdf_gram_stain_label": "Barwienie Grama", 
+  "pdf_genus_label": "Rodzaj", 
+  "pdf_species_label": "Gatunek", 
+  "pdf_recommended_antibiotic_therapy_label": "Zalecana antybiotykoterapia:",
+  "pdf_recommended_treatment_label": "Rekomendowane leczenie:", 
+  "pdf_additional_notes_label": "Uwagi dodatkowe:",
+  "pdf_performed_by_label": "Badanie wykonał(a):",
+  "pdf_performed_with_label": "Badanie wykonano za pomocą",
+  "pdf_logo_alt_text": "Logo"
 }
