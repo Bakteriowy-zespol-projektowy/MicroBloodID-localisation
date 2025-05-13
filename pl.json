@@ -80,5 +80,7 @@
   "pdf_additional_notes_label": "Uwagi dodatkowe:",
   "pdf_performed_by_label": "Badanie wykonał(a):",
   "pdf_performed_with_label": "Badanie wykonano za pomocą",
-  "pdf_logo_alt_text": "Logo"
+  "pdf_logo_alt_text": "Logo",
+  "positive": "Dodatnie",
+  "negative": "Ujemne"
 }
