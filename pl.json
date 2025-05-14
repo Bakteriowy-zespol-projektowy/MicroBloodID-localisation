@@ -82,5 +82,9 @@
   "pdf_performed_with_label": "Badanie wykonano za pomocą",
   "pdf_logo_alt_text": "Logo",
   "positive": "Dodatnie",
-  "negative": "Ujemne"
+  "negative": "Ujemne",
+  "pdf_additional_informations": "Dodatkowe Informacje",
+  "pdf_is_patient_on_antibiotics": "Czy pacjent przyjmuje antybiotyki",
+  "pdf_medium_type": "Rodzaj podłoża",
+  "pdf_type_label": "Typ"
 }
