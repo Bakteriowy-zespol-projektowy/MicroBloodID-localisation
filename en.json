@@ -82,5 +82,9 @@
   "pdf_performed_with_label": "Performed using",
   "pdf_logo_alt_text": "Logo",
   "positive": "Positive",
-  "negative": "Negative"
+  "negative": "Negative",
+  "pdf_additional_informations": "Additional Informations",
+  "pdf_is_patient_on_antibiotics": "Is the patient on antibiotics",
+  "pdf_medium_type": "Medium Type",
+  "pdf_type_label": "Type"
 }
