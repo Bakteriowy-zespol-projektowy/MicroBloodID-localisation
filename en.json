@@ -58,7 +58,7 @@
 
   "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)",
 
-  "report_title_pdf": "Examination report",
+  "report_title_pdf": "Examination Report",
   "pdf_patient_name_label": "Patient's First Name:",
   "pdf_patient_surname_label": "Patient's Last Name:",
   "pdf_date_of_birth_label": "Date of birth:",
@@ -83,7 +83,7 @@
   "pdf_logo_alt_text": "Logo",
   "positive": "Positive",
   "negative": "Negative",
-  "pdf_additional_informations": "Additional information",
+  "pdf_additional_informations": "Additional Information",
   "pdf_is_patient_on_antibiotics": "Antibiotics taken before examination:",
   "pdf_medium_type": "Medium type:",
   "pdf_type_label": "Microorganism",
