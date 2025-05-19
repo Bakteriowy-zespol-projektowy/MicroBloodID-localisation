@@ -59,8 +59,8 @@
   "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)",
 
   "report_title_pdf": "Examination Report",
-  "pdf_patient_name_label": "Patient's First Name:",
-  "pdf_patient_surname_label": "Patient's Last Name:",
+  "pdf_patient_name_label": "First name (names):",
+  "pdf_patient_surname_label": "Surname:",
   "pdf_date_of_birth_label": "Date of birth:",
   "pdf_sample_collection_date_label": "Date and time of sample collection:",
   "pdf_result_date_label": "Result date:",
