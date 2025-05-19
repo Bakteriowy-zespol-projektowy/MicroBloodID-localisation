@@ -86,5 +86,6 @@
   "pdf_additional_informations": "Dodatkowe Informacje",
   "pdf_is_patient_on_antibiotics": "Czy pacjent przyjmuje antybiotyki",
   "pdf_medium_type": "Rodzaj podłoża",
-  "pdf_type_label": "Typ"
+  "pdf_type_label": "Typ",
+  "bottle_number": "Numer butelki"
 }
