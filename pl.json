@@ -59,8 +59,8 @@
   "password_hint": "Twoje hasło musi zawierać co najmniej 8 znaków, w tym: \n- co najmmniej jedną wielką i jedną małą literę, \n- co najmniej jedną cyfrę, \n- co najmniej jeden znak specjalny (np. !, @, #, $, %)",
 
   "report_title_pdf": "Raport z badania", 
-  "pdf_patient_name_label": "Imię pacjenta:",
-  "pdf_patient_surname_label": "Nazwisko pacjenta:",
+  "pdf_patient_name_label": "Imię (Imiona):",
+  "pdf_patient_surname_label": "Nazwisko:",
   "pdf_date_of_birth_label": "Data urodzenia:", 
   "pdf_sample_collection_date_label": "Data i godzina pobrania próbki:",
   "pdf_result_date_label": "Data uzyskania wyniku:",
