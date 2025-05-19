@@ -86,5 +86,6 @@
   "pdf_additional_informations": "Additional Informations",
   "pdf_is_patient_on_antibiotics": "Is the patient on antibiotics",
   "pdf_medium_type": "Medium Type",
-  "pdf_type_label": "Type"
+  "pdf_type_label": "Type",
+  "bottle_number": "Bottle Number"
 }
