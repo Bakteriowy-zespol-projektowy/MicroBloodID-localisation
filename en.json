@@ -79,7 +79,7 @@
   "pdf_recommended_treatment_label": "Suggested treatment:", 
   "pdf_additional_notes_label": "Notes:", 
   "pdf_performed_by_label": "Performed by:",
-  "pdf_performed_with_label": "Performed using:",
+  "pdf_performed_with_label": "Performed using",
   "pdf_logo_alt_text": "Logo",
   "positive": "Positive",
   "negative": "Negative",
