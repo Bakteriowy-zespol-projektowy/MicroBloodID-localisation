@@ -36,6 +36,7 @@
   "urinary_catheter": "Cewnik moczowy",
   "on_antibiotics": "Przyjęcie antybiotyków przed badaniem",
   "medium_type": "Typ podłoża",
+  "medium_type_hint": "Wybierz z listy lub podaj własną wartość",
   "notes": "Uwagi",
   "suggested_treatment": "Sugerowana terapia",
   "type": "Mikroorganizm",

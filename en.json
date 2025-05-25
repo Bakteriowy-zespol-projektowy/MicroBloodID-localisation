@@ -36,6 +36,7 @@
   "urinary_catheter": "Urinary catheter",
   "on_antibiotics": "Antibiotics taken before examination",
   "medium_type": "Medium type",
+  "medium_type_hint": "Select or enter a custom value",
   "notes": "Notes",
   "suggested_treatment": "Suggested treatment",
   "type": "Microorganism",
