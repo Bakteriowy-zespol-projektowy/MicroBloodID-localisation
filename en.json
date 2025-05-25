@@ -83,4 +83,35 @@
 
 
   "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)"
+
+  "report_title_pdf": "Examination Report",
+  "pdf_patient_name_label": "First name (names):",
+  "pdf_patient_surname_label": "Surname:",
+  "pdf_date_of_birth_label": "Date of birth:",
+  "pdf_sample_collection_date_label": "Date and time of sample collection:",
+  "pdf_result_date_label": "Result date:",
+  "pdf_examination_number_label": "Examination number:",
+  "pdf_sample_collection_method_title": "Collection method",
+  "pdf_central_line_label": "Vascular access:",
+  "pdf_urinary_catheter_label": "Urinary catheter:",
+  "pdf_microbiological_results_title": "Microbiological results",
+  "pdf_stage_label": "Stage",
+  "pdf_result_column_label": "Result", 
+  "pdf_probability_column_label": "Probability",
+  "pdf_gram_stain_label": "Gram stain",
+  "pdf_genus_label": "Genus", 
+  "pdf_species_label": "Species", 
+  "pdf_recommended_antibiotic_therapy_label": "Suggested antibiotic therapy:",
+  "pdf_recommended_treatment_label": "Suggested treatment:", 
+  "pdf_additional_notes_label": "Notes:", 
+  "pdf_performed_by_label": "Performed by:",
+  "pdf_performed_with_label": "Performed using",
+  "pdf_logo_alt_text": "Logo",
+  "positive": "Positive",
+  "negative": "Negative",
+  "pdf_additional_informations": "Additional Information",
+  "pdf_is_patient_on_antibiotics": "Antibiotics taken before examination:",
+  "pdf_medium_type": "Medium type:",
+  "pdf_type_label": "Microorganism",
+  "pdf_bottle_number": "Bottle number:"
 }
