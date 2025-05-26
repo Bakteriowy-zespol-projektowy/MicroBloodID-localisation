@@ -47,6 +47,7 @@
   "urinary_catheter": "Urinary catheter",
   "on_antibiotics": "Antibiotics taken before examination",
   "medium_type": "Medium type",
+  "medium_type_hint": "select or input a custom value",
   "selected_medium": "Selected medium",
   "notes": "Notes",
   "suggested_treatment": "Suggested treatment",
@@ -82,7 +83,7 @@
   "december": "December",
 
 
-  "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)"
+  "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)",
 
   "report_title_pdf": "Examination Report",
   "pdf_patient_name_label": "First name (names):",
