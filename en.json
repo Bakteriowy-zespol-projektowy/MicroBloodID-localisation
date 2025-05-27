@@ -9,6 +9,14 @@
   "patients_page": "Patients",
   "log_out": "Log out",
 
+  "failed_login": "Login failed",
+  "patient_added_successfully": "New patient added successfully",
+  "not_enough_data_provided": "Please fill in all required data",
+  "user_id_not_found": "User not found",
+  "examination_created": "Examination completed successfully",
+  "an_unexpected_error_occurred": "An unexpected error occurred",
+
+
   "code": "Verification code",
   "email_verification_instruction": "Email verification",
   "verification_code_hint": "Provide the code sent\n to you via email",
@@ -64,6 +72,11 @@
   "user_data": "Examiner",
   "examination_result": "Examination result",
   "examination_data": "Examination data",
+  "download_pdf": "Download PDF",
+  "zoom_in": "Zoom in",
+  "zoom_out": "Zoom out",
+  "reset": "Reset",
+  "close": "Close",
 
   "yes": "Yes",
   "no": "No",
@@ -82,6 +95,22 @@
   "november": "November",
   "december": "December",
 
+  "select_patient": "Select patient",
+  "select_media": "Select medium",
+  "dark": "Dark",
+  "light": "Light",
+  "high_contrast": "High contrast",
+  "search": "Search...",
+  "examinations": "Examinations",
+  "patients": "Patients",
+  "no_examinations_for_patient": "No examinations for the selected patient",
+
+  "select_patient_to_view_examinations": "Select a patient to see details",
+  "additional_data": "Additional data",
+  "name_and_surname": "Name and surname",
+  "mask": "Mask",
+  "result": "Result",
+  "examine": "Examine",
 
   "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)",
 
