@@ -5,6 +5,22 @@
   "date_of_birth": "Date of birth",
   "email": "Email Address",
 
+  "home_page": "Home",
+  "patients_page": "Patients",
+  "log_out": "Log out",
+
+  "failed_login": "Login failed",
+  "patient_added_successfully": "New patient added successfully",
+  "not_enough_data_provided": "Please fill in all required data",
+  "user_id_not_found": "User not found",
+  "examination_created": "Examination completed successfully",
+  "an_unexpected_error_occurred": "An unexpected error occurred",
+
+
+  "code": "Verification code",
+  "email_verification_instruction": "Email verification",
+  "verification_code_hint": "Provide the code sent\n to you via email",
+
   "login": "Sign in",
   "register": "Sign up",
   "forgot_password": "Forgot your password?",
@@ -18,6 +34,7 @@
   "examination_start_instruction": "To start a new examination, press the button below",
   "examination_start": "New examination",
 
+  "patient_information": "Patient information",
   "patient_selection_suggestion": "Select patient from the list...",
   "new_patient_suggestion": "...or create a new patient",
   "selected_patient": "Selected patient",
@@ -26,6 +43,8 @@
   "optional": "Optional",
   "drop_photos_or_press": "Drop photos or press here, to select a folder",
   "select_photos": "Select photos",
+  "attached_photos": "Attached photos",
+  "not_enough_photos_warning": "Adding less that 5 photos may affect the accuracy of the result",
   "submit_examination": "Submit examination",
 
   "sample_date": "Date and time of sample collection",
@@ -36,6 +55,8 @@
   "urinary_catheter": "Urinary catheter",
   "on_antibiotics": "Antibiotics taken before examination",
   "medium_type": "Medium type",
+  "medium_type_hint": "select or input a custom value",
+  "selected_medium": "Selected medium",
   "notes": "Notes",
   "suggested_treatment": "Suggested treatment",
   "type": "Microorganism",
@@ -61,6 +82,19 @@
   "no": "No",
   "n/a": "N/A",
 
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+
   "select_patient": "Select patient",
   "select_media": "Select medium",
   "dark": "Dark",
@@ -71,10 +105,6 @@
   "patients": "Patients",
   "no_examinations_for_patient": "No examinations for the selected patient",
 
-  "home_page": "Home",
-  "patients_page": "Patients",
-  "log_out": "Log out",
-
   "select_patient_to_view_examinations": "Select a patient to see details",
   "additional_data": "Additional data",
   "name_and_surname": "Name and surname",
@@ -82,5 +112,36 @@
   "result": "Result",
   "examine": "Examine",
 
-  "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)"
+  "password_hint": "Your password must contain at least 8 characters, including at least one of each: \n- uppercase letter \n- lowercase letter \n- digit \n- special character (e.g. !, @, #, $, %)",
+
+  "report_title_pdf": "Examination Report",
+  "pdf_patient_name_label": "First name (names):",
+  "pdf_patient_surname_label": "Surname:",
+  "pdf_date_of_birth_label": "Date of birth:",
+  "pdf_sample_collection_date_label": "Date and time of sample collection:",
+  "pdf_result_date_label": "Result date:",
+  "pdf_examination_number_label": "Examination number:",
+  "pdf_sample_collection_method_title": "Collection method",
+  "pdf_central_line_label": "Vascular access:",
+  "pdf_urinary_catheter_label": "Urinary catheter:",
+  "pdf_microbiological_results_title": "Microbiological results",
+  "pdf_stage_label": "Stage",
+  "pdf_result_column_label": "Result", 
+  "pdf_probability_column_label": "Probability",
+  "pdf_gram_stain_label": "Gram stain",
+  "pdf_genus_label": "Genus", 
+  "pdf_species_label": "Species", 
+  "pdf_recommended_antibiotic_therapy_label": "Suggested antibiotic therapy:",
+  "pdf_recommended_treatment_label": "Suggested treatment:", 
+  "pdf_additional_notes_label": "Notes:", 
+  "pdf_performed_by_label": "Performed by:",
+  "pdf_performed_with_label": "Performed using",
+  "pdf_logo_alt_text": "Logo",
+  "positive": "Positive",
+  "negative": "Negative",
+  "pdf_additional_informations": "Additional Information",
+  "pdf_is_patient_on_antibiotics": "Antibiotics taken before examination:",
+  "pdf_medium_type": "Medium type:",
+  "pdf_type_label": "Microorganism",
+  "pdf_bottle_number": "Bottle number:"
 }
