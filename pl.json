@@ -22,7 +22,10 @@
   "verification_code_hint": "Wprowadź kod wysłany\n na podany adres email",
   "submit_code": "Wyślij kod",
   "enter_email": "Wprowadź email",
+  "your_email": "Twój adres email",
   "enter_reset_code": "Wprowadź kod",
+  "enter_new_password": "Wprowadź nowe hasło",
+  "new_password": "Nowe hasło",
   "ok": "Ok",
   "cancel": "Anuluj",
 
@@ -38,6 +41,14 @@
   "recent_examinations": "Ostatnie badania",
   "examination_start_instruction": "Aby rozpocząć nowe badanie, naciśnij poniższy przycisk",
   "examination_start": "Rozpocznij badanie",
+
+  "see_result": "Zobacz wynik",
+
+  "no_examinations_found": "Nie znaleziono badań",
+
+  "mask0": "Pierwsza maska",
+  "mask1": "Druga maska",
+  "image": "Obraz",
 
   "patient_information": "Informacje o pacjencie",
   "patient_selection_suggestion": "Wybierz pacjenta z listy...",

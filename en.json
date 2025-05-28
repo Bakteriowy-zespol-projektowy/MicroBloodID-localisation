@@ -23,7 +23,10 @@
 
   "submit_code": "Submit code",
   "enter_email": "Enter email",
+  "your_email": "Your email",
   "enter_reset_code": "Enter reset code",
+  "enter_new_password": "Enter new password",
+  "new_password": "New password",
   "ok": "Ok",
   "cancel": "Cancel",
 
@@ -43,6 +46,14 @@
   "recent_examinations": "Recent examinations",
   "examination_start_instruction": "To start a new examination, press the button below",
   "examination_start": "New examination",
+
+  "see_result": "See result",
+
+  "mask0": "First mask",
+  "mask1": "Second mask",
+  "image": "Image",
+
+  "no_examinations_found": "No examinations found",
 
   "patient_information": "Patient information",
   "patient_selection_suggestion": "Select patient from the list...",
