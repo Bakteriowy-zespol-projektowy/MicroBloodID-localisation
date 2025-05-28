@@ -47,6 +47,8 @@
   "examination_start_instruction": "To start a new examination, press the button below",
   "examination_start": "New examination",
 
+  "see_result": "Zobacz wynik",
+
   "patient_information": "Patient information",
   "patient_selection_suggestion": "Select patient from the list...",
   "new_patient_suggestion": "...or create a new patient",
