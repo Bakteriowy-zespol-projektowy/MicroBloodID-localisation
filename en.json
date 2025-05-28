@@ -49,6 +49,10 @@
 
   "see_result": "See result",
 
+  "mask0": "First mask",
+  "mask1": "Second mask",
+  "image": "Image",
+
   "no_examinations_found": "No examinations found",
 
   "patient_information": "Patient information",

@@ -46,6 +46,10 @@
 
   "no_examinations_found": "Nie znaleziono badań",
 
+  "mask0": "Pierwsza maska",
+  "mask1": "Druga maska",
+  "image": "Obraz",
+
   "patient_information": "Informacje o pacjencie",
   "patient_selection_suggestion": "Wybierz pacjenta z listy...",
   "selected_patient": "Wybrany pacjent",
