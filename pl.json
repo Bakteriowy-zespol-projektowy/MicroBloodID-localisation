@@ -19,7 +19,12 @@
 
   "code": "Kod weryfikacyjny",
   "email_verification_instruction": "Potwierdzenie email",
-  "verification_code_hint": "Podaj kod wysłany\n na podany email",
+  "verification_code_hint": "Wprowadź kod wysłany\n na podany adres email",
+  "submit_code": "Wyślij kod",
+  "enter_email": "Wprowadź email",
+  "enter_reset_code": "Wprowadź kod",
+  "ok": "Ok",
+  "cancel": "Anuluj",
 
   "login": "Zaloguj się",
   "register": "Zarejestruj się",
