@@ -19,7 +19,12 @@
 
   "code": "Kod weryfikacyjny",
   "email_verification_instruction": "Potwierdzenie email",
-  "verification_code_hint": "Podaj kod wysłany\n na podany email",
+  "verification_code_hint": "Wprowadź kod wysłany\n na podany adres email",
+  "submit_code": "Wyślij kod",
+  "enter_email": "Wprowadź email",
+  "enter_reset_code": "Wprowadź kod",
+  "ok": "Ok",
+  "cancel": "Anuluj",
 
   "login": "Zaloguj się",
   "register": "Zarejestruj się",
@@ -109,8 +114,12 @@
   "high_contrast": "Wysoki kontrast",
   "search": "Wyszukaj...",
   "examinations": "Badania",
-  "patients": "Pacjencji",
+  "patients": "Pacjenci",
   "no_examinations_for_patient": "Brak badań dla wybranego pacjenta",
+
+  "day": "Dzień",
+  "month": "Miesiąc",
+  "year": "Rok",
 
   "select_patient_to_view_examinations": "Wybierz pacjenta aby zobaczyć dane",
   "additional_data": "Dodatkowe dane",
