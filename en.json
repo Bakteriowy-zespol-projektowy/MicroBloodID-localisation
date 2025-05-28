@@ -17,6 +17,10 @@
   "an_unexpected_error_occurred": "An unexpected error occurred",
   "successful_log_out": "Logged out successfully",
 
+  "day": "Day",
+  "month": "Month",
+  "year": "Year",
+
   "submit_code": "Submit code",
   "enter_email": "Enter email",
   "enter_reset_code": "Enter reset code",

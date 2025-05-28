@@ -117,6 +117,10 @@
   "patients": "Pacjenci",
   "no_examinations_for_patient": "Brak badań dla wybranego pacjenta",
 
+  "day": "Dzień",
+  "month": "Miesiąc",
+  "year": "Rok",
+
   "select_patient_to_view_examinations": "Wybierz pacjenta aby zobaczyć dane",
   "additional_data": "Dodatkowe dane",
   "name_and_surname": "Imię i nazwisko",
