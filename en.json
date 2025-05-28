@@ -15,7 +15,7 @@
   "user_id_not_found": "User not found",
   "examination_created": "Examination completed successfully",
   "an_unexpected_error_occurred": "An unexpected error occurred",
-
+  "successful_log_out": "Logged out successfully",
 
   "code": "Verification code",
   "email_verification_instruction": "Email verification",
