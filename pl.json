@@ -17,6 +17,13 @@
   "an_unexpected_error_occurred": "Wystąpił niespodziewany błąd",
   "successful_log_out": "Pomyślnie wylogowano",
 
+  "err_reset_password_email": "Sprawdź poprawność adresu email",
+  "scs_reset_password_email": "Kod został wysłany na podany adres email",
+  "err_reset_password_code": "Nieprawidłowy kod",
+  "err_reset_password": "Zmiana hasła nie powiodła się",
+  "scs_reset_password": "Hasło zostało zmienione",
+  "err_reset_password_unknown": "Wystąpił nieznany błąd podczas zmiany hasła",
+
   "code": "Kod weryfikacyjny",
   "email_verification_instruction": "Potwierdzenie email",
   "verification_code_hint": "Wprowadź kod wysłany\n na podany adres email",
