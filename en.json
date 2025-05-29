@@ -17,6 +17,13 @@
   "an_unexpected_error_occurred": "An unexpected error occurred",
   "successful_log_out": "Logged out successfully",
 
+  "err_reset_password_email": "Incorrect email address",
+  "scs_reset_password_email": "A code has been sent to the provided email address",
+  "err_reset_password_code": "Invalid code",
+  "err_reset_password": "Password change failed",
+  "scs_reset_password": "Password has been changed",
+  "err_reset_password_unknown": "An unknown error occurred during password change",
+
   "day": "Day",
   "month": "Month",
   "year": "Year",
