@@ -149,12 +149,12 @@
   "password_hint": "Twoje hasło musi zawierać co najmniej 8 znaków, w tym: \n- co najmmniej jedną wielką i jedną małą literę, \n- co najmniej jedną cyfrę, \n- co najmniej jeden znak specjalny (np. !, @, #, $, %)",
 
   "report_title_pdf": "Raport z Badania", 
-  "pdf_patient_name_label": "Imię (Imiona):",
-  "pdf_patient_surname_label": "Nazwisko:",
-  "pdf_date_of_birth_label": "Data urodzenia:", 
-  "pdf_sample_collection_date_label": "Data i godzina pobrania próbki:",
-  "pdf_result_date_label": "Data uzyskania wyniku:",
-  "pdf_examination_number_label": "Numer badania:",
+  "pdf_patient_name_label": "Imię (Imiona)",
+  "pdf_patient_surname_label": "Nazwisko",
+  "pdf_date_of_birth_label": "Data urodzenia", 
+  "pdf_sample_collection_date_label": "Data i godzina pobrania próbki",
+  "pdf_result_date_label": "Data uzyskania wyniku",
+  "pdf_examination_number_label": "Numer badania",
   "pdf_sample_collection_method_title": "Sposób pobrania",
   "pdf_central_line_label": "Dojście naczyniowe:", 
   "pdf_urinary_catheter_label": "Cewnik moczowy:", 
@@ -168,7 +168,7 @@
   "pdf_recommended_antibiotic_therapy_label": "Zalecana antybiotykoterapia:",
   "pdf_recommended_treatment_label": "Sugerowana terapia:", 
   "pdf_additional_notes_label": "Uwagi:",
-  "pdf_performed_by_label": "Badanie wykonał(a):",
+  "pdf_performed_by_label": "Badanie wykonał(a)",
   "pdf_performed_with_label": "Badanie wykonano za pomocą",
   "pdf_logo_alt_text": "Logo",
   "positive": "Dodatnie",
@@ -177,5 +177,5 @@
   "pdf_is_patient_on_antibiotics": "Przyjęcie antybiotyków przed badaniem:",
   "pdf_medium_type": "Typ podłoża:",
   "pdf_type_label": "Mikroorganizm",
-  "pdf_bottle_number": "Numer butelki:"
+  "pdf_bottle_number": "Numer butelki"
 }
