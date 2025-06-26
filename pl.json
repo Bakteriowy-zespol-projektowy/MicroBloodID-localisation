@@ -27,6 +27,10 @@
   "code": "Kod weryfikacyjny",
   "email_verification_instruction": "Potwierdzenie email",
   "verification_code_hint": "Wprowadź kod wysłany\n na podany adres email",
+
+  "national_id_date_of_birth_hint": "Data urodzenia wyświetli się dla poprawnego numeru PESEL",
+
+
   "submit_code": "Wyślij kod",
   "enter_email": "Wprowadź email",
   "your_email": "Twój adres email",
@@ -204,5 +208,33 @@
   "selected_files": "Wybrane pliki",
   "processing_examination": "Przetwarzanie badania...",
   "adding_patient": "Dodawanie nowego pacjenta...",
-  "loading": "Ładowanie..."
+  "loading": "Ładowanie...",
+
+  "gram_positive": "Dodatnie",
+  "gram_negative": "Ujemne",
+  "bakterie": "Bakterie",
+  "paleczki": "Pałeczki",
+  "gronkowce": "Gronkowce",
+  "paciorkowce": "Paciorkowce",
+  "enterokoki": "Enterokoki",
+  "ziarenkowce": "Ziarenkowce",
+  "grzyby": "Grzyby",
+  "Cutibacterium_acnes": "Cutibacterium acnes",
+  "paleczki_gram_pos_inne": "Listeria monocytogenes, Brevibacterium casei, Arcanobacterium haemolyticum, Corynebacterium aurimucosum, Corynebacterium falsenii, Lactobacillus, Clostridium perfringens",
+  "Staphylococcus_aureus": "Staphylococcus aureus",
+  "Staphylococcus_other": "Staphylococcus epidermidis, Staphylococcus hominis, Staphylococcus haemolyticus",
+  "S_pneumoniae_mitis_oralis": "Streptococcus mitis oralis, Streptococcus pneumoniae",
+  "Enterococcus_faecalis": "Enterococcus faecalis",
+  "Enterococcus_faecium": "Enterococcus faecium",
+  "S_pyogenes_agalactiae_dysagalactiae": "Streptococcus agalactiae, Streptococcus dysagalactiae, Streptococcus pyogenes",
+  "Acinteobacter_baumanii": "Acinteobacter baumanii",
+  "Pseudomonas_aeruginosa": "Pseudomonas aeruginosa",
+  "Stenotrophomonas_maltophilia": "Stenotrophomonas maltophilia",
+  "E_coli_K_penumoniae": "Escherichia coli, Klebsiella pneumoniae",
+  "Serratia_marcescens": "Serratia marcescens",
+  "paleczki_gram_neg_inne": "Enterobacter cloacae, Bacteroides thetaiotaomicron, Achromobacter denitrificans, Bacteroides fragilis, Bacteroides uniformis, Morganella morganii, Citrobacter braakii, Raoultella, Salmonella enterica",
+  "Candida_albicans": "Candida albicans",
+  "Nakaseomyces_glabratus": "Nakaseomyces glabratus",
+  "grzyby_inne": "Candida tropicalis, Candida parapsilosis, Kluyveromyces marxianus"
+
 }
