@@ -27,6 +27,10 @@
   "code": "Kod weryfikacyjny",
   "email_verification_instruction": "Potwierdzenie email",
   "verification_code_hint": "Wprowadź kod wysłany\n na podany adres email",
+
+  "national_id_date_of_birth_hint": "Data urodzenia wyświetli się dla poprawnego numeru PESEL",
+
+
   "submit_code": "Wyślij kod",
   "enter_email": "Wprowadź email",
   "your_email": "Twój adres email",
