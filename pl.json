@@ -178,5 +178,31 @@
   "pdf_is_patient_on_antibiotics": "Przyjęcie antybiotyków przed badaniem:",
   "pdf_medium_type": "Typ podłoża:",
   "pdf_type_label": "Mikroorganizm",
-  "pdf_bottle_number": "Numer butelki"
+  "pdf_bottle_number": "Numer butelki",
+
+  "no_photos_available": "Brak dostępnych zdjęć",
+  "view_full_size": "Zobacz w pełnym rozmiarze",
+  "photo": "zdjęcie",
+  "photos": "zdjęcia",
+  "analysis_complete": "Analiza zakończona",
+  "analysis_results": "Wyniki analizy",
+  "treatment_notes": "Terapia i uwagi",
+  "download_report": "Pobierz raport",
+
+  "close_modal": "Zamknij modal",
+  "next_photo": "Następne zdjęcie",
+  "previous_photo": "Poprzednie zdjęcie",
+  "photo_viewer": "Przeglądarka zdjęć",
+
+  "error_loading_data": "Błąd ładowania danych",
+  "retry": "Spróbuj ponownie",
+
+  "create_examination": "Utwórz nowe badanie",
+  "examination_creation_description": "Wypełnij dane pacjenta i badania, aby rozpocząć analizę",
+  "examination_description_placeholder": "Wprowadź dodatkowe uwagi dotyczące badania...",
+  "supported_formats": "Obsługuje formaty JPG, PNG i inne formaty obrazów",
+  "selected_files": "Wybrane pliki",
+  "processing_examination": "Przetwarzanie badania...",
+  "adding_patient": "Dodawanie nowego pacjenta...",
+  "loading": "Ładowanie..."
 }

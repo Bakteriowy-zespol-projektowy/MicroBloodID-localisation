@@ -172,5 +172,31 @@
   "pdf_is_patient_on_antibiotics": "Antibiotics taken before examination:",
   "pdf_medium_type": "Medium type:",
   "pdf_type_label": "Microorganism",
-  "pdf_bottle_number": "Bottle number"
+  "pdf_bottle_number": "Bottle number",
+
+  "no_photos_available": "No photos available",
+  "view_full_size": "View full size",
+  "photo": "photo",
+  "photos": "photos",
+  "analysis_complete": "Analysis complete",
+  "analysis_results": "Analysis Results",
+  "treatment_notes": "Treatment & Notes",
+  "download_report": "Download Report",
+
+  "close_modal": "Close modal",
+  "next_photo": "Next photo",
+  "previous_photo": "Previous photo",
+  "photo_viewer": "Photo Viewer",
+
+  "error_loading_data": "Error loading data",
+  "retry": "Retry",
+
+  "create_examination": "Create New Examination",
+  "examination_creation_description": "Fill in the patient and examination details to start the analysis",
+  "examination_description_placeholder": "Enter any additional notes about the examination...",
+  "supported_formats": "Supports JPG, PNG, and other image formats",
+  "selected_files": "Selected files",
+  "processing_examination": "Processing examination...",
+  "adding_patient": "Adding new patient...",
+  "loading": "Loading..."
 }
