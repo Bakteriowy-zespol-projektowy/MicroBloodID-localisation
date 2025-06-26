@@ -183,8 +183,8 @@
   "pdf_type_label": "Mikroorganizm",
   "pdf_bottle_number": "Numer butelki",
 
-  "gram_positive": "Pozytywne",
-  "gram_negative": "Negatywne",
+  "gram_positive": "Dodatnie",
+  "gram_negative": "Ujemne",
   "bakterie": "Bakterie",
   "paleczki": "Pałeczki",
   "gronkowce": "Gronkowce",
