@@ -211,7 +211,9 @@
   "loading": "Ładowanie...",
 
   "gram_positive": "Dodatnie",
+  "gram-positive": "Dodatnie",
   "gram_negative": "Ujemne",
+  "gram-negative": "Ujemne",
   "bakterie": "Bakterie",
   "paleczki": "Pałeczki",
   "gronkowce": "Gronkowce",

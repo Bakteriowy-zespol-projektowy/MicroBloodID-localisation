@@ -203,7 +203,9 @@
   "loading": "Loading...",
 
   "gram_positive": "Positive",
+  "gram-positive": "Positive",
   "gram_negative": "Negative",
+  "gram-negative": "Negative",
   "bakterie": "Bacteria",
   "paleczki": "Bacilli",
   "gronkowce": "Staphylococci",
