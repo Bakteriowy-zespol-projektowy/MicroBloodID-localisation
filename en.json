@@ -41,6 +41,8 @@
   "email_verification_instruction": "Email verification",
   "verification_code_hint": "Provide the code sent\n to you via email",
 
+  "national_id_date_of_birth_hint": "Date of birth will show up below for correct PESEL number",
+
   "login": "Sign in",
   "register": "Sign up",
   "forgot_password": "Forgot your password?",
