@@ -146,6 +146,7 @@
   "pdf_patient_name_label": "First name (names)",
   "pdf_patient_surname_label": "Surname",
   "pdf_date_of_birth_label": "Date of birth",
+  "pdf_national_id": "National ID",
   "pdf_sample_collection_date_label": "Date and time of sample collection",
   "pdf_result_date_label": "Result date",
   "pdf_examination_number_label": "Examination number",
