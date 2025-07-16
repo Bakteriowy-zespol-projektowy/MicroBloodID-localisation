@@ -211,6 +211,8 @@
   "processing_examination": "Przetwarzanie badania...",
   "adding_patient": "Dodawanie nowego pacjenta...",
   "loading": "Ładowanie...",
+  "download_pdf_without_photos": "Pobierz raport PDF",
+  "download_pdf_with_photos": "Pobierz raport PDF ze zdjęciami",
   "microorganism_identification": "Identyfikacja mikroorganizmów",
   "bacterial_morphology": "Morfologia bakterii",
   "staining_results": "Wyniki barwienia",
